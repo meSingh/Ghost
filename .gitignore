@@ -169,3 +169,6 @@ tsconfig.tsbuildinfo
 /apps/admin-x-settings/test-results/
 /apps/admin-x-settings/playwright-report/
 /apps/admin-x-settings/playwright/.cache/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
